@@ -1,0 +1,10 @@
+{
+  "name": "refrag-marketplace",
+  "version": "1.0.0",
+  "plugins": [
+    {
+      "name": "refrag",
+      "path": "plugins/refrag/"
+    }
+  ]
+}

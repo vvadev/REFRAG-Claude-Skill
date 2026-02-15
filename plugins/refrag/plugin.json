@@ -1,0 +1,9 @@
+{
+  "name": "refrag",
+  "version": "1.0.0",
+  "description": "REFRAG skill for building efficient retrieval-augmented generation systems with chunk compression and selective expansion.",
+  "author": {
+    "name": "Vladimir Versinin"
+  },
+  "homepage": "https://github.com/vladimirversinin/refrag-skill"
+}
