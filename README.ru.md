@@ -26,7 +26,7 @@ REFRAG - это подход к RAG-декодированию, который �
 ## Быстрый старт
 
 ```bash
-/plugin marketplace add refrag-marketplace https://github.com/vvadev/refrag-skill
+/plugin marketplace add refrag-marketplace https://github.com/vvadev/REFRAG-Claude-Skill
 /plugin install refrag
 ```
 

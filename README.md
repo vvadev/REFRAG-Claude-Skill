@@ -26,7 +26,7 @@ This plugin adds a focused REFRAG workflow to Claude Code so you can:
 ## Quick Start
 
 ```bash
-/plugin marketplace add refrag-marketplace https://github.com/vvadev/refrag-skill
+/plugin marketplace add refrag-marketplace https://github.com/vvadev/REFRAG-Claude-Skill
 /plugin install refrag
 ```
 
